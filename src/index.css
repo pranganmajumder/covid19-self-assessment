@@ -1,0 +1,24 @@
+
+
+#mainhead{
+    text-align: center;
+}
+
+/* id btn1 */
+#btn1, #btn2{
+    text-align: center;
+    color: black;
+}
+
+
+
+
+
+/* id: severe tag:h4 */
+#severe h4{                                    
+    text-align: center;
+}
+
+#additional h4{
+    text-align: center;
+}
